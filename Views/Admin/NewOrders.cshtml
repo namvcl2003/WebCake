@@ -1,0 +1,252 @@
+﻿@model List<ShopBaker.Models.BillingDetailsModel>
+
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&ampdisplay=swap" rel="stylesheet">
+    <environment include="Development">
+        <!-- Fonts & Flag icons -->
+        <link rel="stylesheet" href="~/vendor/fonts/remixicon/remixicon.css" />
+        <link rel="stylesheet" href="~/vendor/libs/node-waves/node-waves.css" />
+        <!-- Core CSS -->
+        <link rel="stylesheet" href="~/vendor/css/core.css" class="template-customizer-core-css" />
+        <link rel="stylesheet" href="~/vendor/css/theme-default.css" class="template-customizer-theme-css" />
+        <link rel="stylesheet" href="~/css/demo.css" />
+        <!-- `perfect-scrollbar` library required by SideNav plugin -->
+        <link rel="stylesheet" href="~/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
+        <!-- Application stylesheets -->
+        <link rel="stylesheet" href="~/css/site.css" />
+    </environment>
+    <environment exclude="Development">
+        <!-- Fonts & Flag icons -->
+        <link rel="stylesheet" href="~/vendor/fonts/remixicon/remixicon.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/vendor/libs/node-waves/node-waves.css" asp-append-version="true" />
+        <!-- Core CSS -->
+        <link rel="stylesheet" href="~/vendor/css/core.css" class="template-customizer-core-css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/vendor/css/theme-default.css" class="template-customizer-theme-css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/css/demo.css" />
+        <!-- `perfect-scrollbar` library required by SideNav plugin -->
+        <link rel="stylesheet" href="~/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" asp-append-version="true" />
+        <!-- Application stylesheets -->
+        <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.6/umd/popper.min.js" integrity="sha384-oBqDVmMz4fnFO9gybBogG4RF2vF6G2LGK3Bz5Zy3E9Plk+jpo2aFLRST8V60Mu+6" crossorigin="anonymous"></script>
+    </environment>
+
+
+    <link rel="stylesheet" href="~/vendor/libs/apex-charts/apex-charts.css" />
+
+
+    <script src="~/vendor/libs/apex-charts/apexcharts.js"></script>
+
+    <script src="~/js/dashboards-analytics.js"></script>
+
+
+    @* ************** Content ************** *@
+
+</head>
+
+
+
+
+
+
+<body>
+    <h1>""</h1>
+    <h1>""</h1>
+
+    <div class="container-fluid my-5 px-0">
+        @*<div class="container my-5">*@
+        
+            <header>
+                <img src="/img/NEWORDER.png" alt="Tiêu Đề Trang" style="max-width: 100%; height: auto; display: block; justify-content: center; align-items: center;">
+            </header>
+        
+        <div class="card">
+
+            <div class="table-responsive">
+                <!-- Search and Filter Bar -->
+                <div class="d-flex justify-content-end mb-3">
+                    <div class="input-group me-2">
+                        <input type="text" id="searchInput" class="form-control" placeholder="Tìm kiếm tên khách hàng...">
+                        <button class="btn btn-outline-secondary" onclick="searchOrders()">Tìm kiếm</button>
+                    </div>
+                    <div class="input-group me-2">
+                        <select id="statusFilter" class="form-select" onchange="filterOrders()">
+                            <option value="">Tất cả trạng thái</option>
+                            <option value="1">Đang chờ xác nhận</option>
+                            <option value="2">Đang giao hàng</option>
+                            <option value="3">Đã giao thành công</option>
+                            <option value="4">Đã Huỷ</option>
+                        </select>
+                    </div>
+                    <div class="input-group me-2">
+                        <input type="date" id="startDate" class="form-control" onchange="filterOrders()" placeholder="Ngày bắt đầu">
+                        <input type="date" id="endDate" class="form-control" onchange="filterOrders()" placeholder="Ngày kết thúc">
+                    </div>
+                </div>
+
+                <table class="table table-hover align-middle">
+                    <thead>
+                        <tr>
+                            <th class="text-truncate">Tên khách hàng</th>
+                            <th class="text-truncate">Số điện thoại</th>
+                            <th class="text-truncate" style="width: 25%; text-align: center;">Địa chỉ</th>
+                            <th class="text-truncate">Thành phố</th>
+                            <th class="text-truncate">Thời gian đặt hàng</th>
+                            <th class="text-truncate">Sản phẩm đã mua</th>
+                            <th class="text-truncate">Tổng Hoá đơn</th>
+                            <th class="text-truncate" style="width: 25%; text-align: center;">Ghi chú</th>
+                            <th class="text-truncate">Trạng thái đơn hàng</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    <tbody id="orderTableBody">
+                        @foreach (var customer in Model)
+                        {
+                            if (customer.Status == 1)
+                            {
+                                var totalOrderAmount = 0M; // Tính tổng giá trị đơn hàng
+
+                                <tr>
+                                    <td>@customer.FirstName @customer.LastName</td>
+                                    <td>@customer.Phone</td>
+                                    <td>@customer.Address, @customer.Address2</td>
+                                    <td>@customer.City</td>
+                                    <td>@customer.TimeOrder.ToString("dd/MM/yyyy HH:mm")</td>
+                                    <td>
+                                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#productDetailsModal_@customer.Id">
+                                            Chi tiết
+                                        </button>
+
+                                        <!-- Modal for Product Details -->
+                                        <div class="modal fade" id="productDetailsModal_@customer.Id" tabindex="-1" aria-labelledby="productDetailsModalLabel" aria-hidden="true">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title" id="productDetailsModalLabel">Chi tiết sản phẩm</h5>
+                                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        <ul>
+                                                            @foreach (var cart in customer.Carts)
+                                                            {
+                                                                totalOrderAmount += cart.TotalPrice;
+
+                                                                <li>
+                                                                    <strong>Sản phẩm:</strong> @cart.ProductName <br />
+                                                                    <strong>Số lượng:</strong> @cart.Quantity <br />
+                                                                    <strong>Giá:</strong> @cart.Price VND <br />
+                                                                    <strong>Tổng cộng:</strong> @cart.TotalPrice VND
+                                                                </li>
+                                                            }
+                                                        </ul>
+                                                    </div>
+                                                    <div class="modal-footer">
+                                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td class="text-truncate">@totalOrderAmount VND</td>
+                                    <td>@customer.OrderNotes</td>
+                                    <td>
+                                        <span>
+                                            @if (@customer.Status == 1)
+                                            {<span class="badge bg-warning text-dark">Đang chờ xác nhận</span>}
+                                            else if (@customer.Status == 2)
+                                            {<span class="badge bg-primary">Đang giao hàng</span>}
+                                            else if (@customer.Status == 3)
+                                            {<span class="badge bg-success">Đã giao thành công</span>}
+                                            else if (@customer.Status == 4)
+                                            {<span class="badge bg-danger">Đã huỷ</span>}
+                                        </span>
+                                        <br />
+                                        @Html.DropDownList("Status_" + customer.Id, OrderStatus.GetAllStatuses(), "Trạng thái", new { @class = "form-control form-select mt-1", onchange = "updateOrderStatus(" + customer.Id + ", this.value)" })
+                                    </td>
+                                </tr>
+                            }
+
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <!-- Phân trang -->
+            <!-- Phân trang -->
+            <nav aria-label="Page navigation">
+                <ul class="pagination justify-content-center">
+                    @if (ViewBag.CurrentPage > 1)
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="@Url.Action("NewOrders", new { page = ViewBag.CurrentPage - 1 })">Previous</a>
+                        </li>
+                    }
+                    @for (int i = 1; i <= ViewBag.TotalPages; i++)
+                    {
+                        <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+                            <a class="page-link" href="@Url.Action("NewOrders", new { page = i })">@i</a>
+                        </li>
+                    }
+                    @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="@Url.Action("NewOrders", new { page = ViewBag.CurrentPage + 1 })">Next</a>
+                        </li>
+                    }
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+
+    <script>
+    function updateOrderStatus(orderId, status) {
+        $.ajax({
+            url: '@Url.Action("UpdateOrderStatus", "Home")',
+            type: 'POST',
+            data: { id: orderId, status: status },
+            success: function(response) {
+                alert("Trạng thái đơn hàng đã được cập nhật.");
+            },
+            error: function(xhr, status, error) {
+                alert("Có lỗi xảy ra khi cập nhật trạng thái đơn hàng.");
+            }
+        });
+    }
+
+    </script>
+    <script>function searchOrders() {
+            const searchInput = document.getElementById("searchInput").value.toLowerCase();
+            const tableRows = document.querySelectorAll("#orderTableBody tr");
+
+            tableRows.forEach(row => {
+                const customerName = row.cells[0].textContent.toLowerCase();
+                row.style.display = customerName.includes(searchInput) ? "" : "none";
+            });
+        }
+
+        function filterOrders() {
+            const statusFilter = document.getElementById("statusFilter").value;
+            const startDate = document.getElementById("startDate").value ? new Date(document.getElementById("startDate").value) : null;
+            const endDate = document.getElementById("endDate").value ? new Date(document.getElementById("endDate").value) : null;
+            const tableRows = document.querySelectorAll("#orderTableBody tr");
+
+            tableRows.forEach(row => {
+                const statusText = row.cells[8].querySelector(".badge").textContent.trim();
+                const dateText = row.cells[4].textContent.trim();
+                const orderDate = new Date(dateText.split(" ")[0].split("/").reverse().join("-"));
+
+                // Status and Date Matching
+                const statusMatch = !statusFilter || statusText.includes(statusFilter);
+                const dateMatch = (!startDate || orderDate >= startDate) && (!endDate || orderDate <= endDate);
+
+                row.style.display = statusMatch && dateMatch ? "" : "none";
+            });
+        }</script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>

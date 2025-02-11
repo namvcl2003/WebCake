@@ -1,0 +1,109 @@
+﻿@model IEnumerable<ShopBaker.Models.UserModel>
+
+<div class="container my-5">
+    <h1>Hi</h1>
+    <h6>''</h6>
+    
+    <h2 class="header-title text-center mb-4">Acounts Client</h2>
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <div>
+            <input type="text" id="searchInput" class="form-control" placeholder="Search by name or email" oninput="searchUsers()">
+        </div>
+        <a asp-action="Register" class="btn btn-primary">Add New User</a>
+    </div>
+
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Full Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Username</th>
+                <th>Address</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="userTableBody">
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.FirstName @user.LastName</td>
+                    <td>@user.Email</td>
+                    <td>@user.Phone</td>
+                    <td>@user.Username</td>
+                    <td>@user.Address, @user.Address2, @user.City</td>
+                    <td>
+                        <button  type="button" class="btn btn-primary" onclick="openEditUserModal('@user.Id')">Edit</button>
+                        @*<a href="javascript:void(0);" onclick="openEditUserModal('@user.Id')">Edit</a>*@
+                        <form asp-action="Delete" asp-route-id="@user.Id" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this user?');">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<!-- Edit Modal -->
+<div id="editModal" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Edit User</h5>
+                <button type="button" class="btn-close" onclick="closeEditModal()"></button>
+            </div>
+            <div class="modal-body">
+                <form id="editForm">
+                    <input type="hidden" id="userId" />
+
+                    <div class="mb-3">
+                        <label for="firstName" class="form-label">First Name</label>
+                        <input type="text" class="form-control" id="firstName" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="lastName" class="form-label">Last Name</label>
+                        <input type="text" class="form-control" id="lastName" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email</label>
+                        <input type="email" class="form-control" id="email" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="phone" class="form-label">Phone</label>
+                        <input type="text" class="form-control" id="phone" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="username" class="form-label">Username</label>
+                        <input type="text" class="form-control" id="username" />
+                    </div>
+
+                    <button type="button" class="btn btn-primary" onclick="saveChanges()">Save</button>
+                    <button type="button" class="btn btn-secondary" onclick="closeEditModal()">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    function openEditUserModal(userId) {
+        // Chuyển hướng đến trang cập nhật thông tin người dùng với ID
+        window.location.href = `/User/UpdateUserbyAD?id=${userId}`;
+    }
+    function searchUsers() {
+        const input = document.getElementById("searchInput").value.toLowerCase();
+        const rows = document.querySelectorAll("#userTableBody tr");
+
+        rows.forEach(row => {
+            const name = row.querySelector("td:first-child").textContent.toLowerCase();
+            const email = row.querySelector("td:nth-child(2)").textContent.toLowerCase();
+            if (name.includes(input) || email.includes(input)) {
+                row.style.display = "";
+            } else {
+                row.style.display = "none";
+            }
+        });
+    }</script>

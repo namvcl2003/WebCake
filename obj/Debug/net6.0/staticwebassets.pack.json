@@ -1,0 +1,2045 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/obj/Debug/net6.0/scopedcss/projectbundle/ShopBaker.bundle.scp.css",
+      "PackagePath": "staticwebassets/ShopBaker.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/.DS_Store",
+      "PackagePath": "staticwebassets/TemplateAdmin/.DS_Store"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/.gitignore",
+      "PackagePath": "staticwebassets/TemplateAdmin/.gitignore"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/CODE_OF_CONDUCT.md",
+      "PackagePath": "staticwebassets/TemplateAdmin/CODE_OF_CONDUCT.md"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/CONTRIBUTING.md",
+      "PackagePath": "staticwebassets/TemplateAdmin/CONTRIBUTING.md"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/LICENSE",
+      "PackagePath": "staticwebassets/TemplateAdmin"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/README.md",
+      "PackagePath": "staticwebassets/TemplateAdmin/README.md"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/alert.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/alert.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/blank.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/blank.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/buttons.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/buttons.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/css/style.css",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/css/style.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/email.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/email.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/congrats.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/congrats.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/fav.png",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/fav.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/food.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/food.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/happy.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/happy.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/index-1.png",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/index-1.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/index.png",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/index.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/logo.png",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/logo.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/sneakers.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/sneakers.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/soccer.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/soccer.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/socks.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/socks.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/tailwindcss.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/tailwindcss.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/user.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/user.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/user1.jpg",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/user1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/user2.jpg",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/user2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/img/user3.jpg",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/img/user3.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/index-1.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/index-1.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/index.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/index.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/js/scripts.js",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/js/scripts.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/build/typography.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/build/typography.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/alert.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/alert.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/blank.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/blank.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/buttons.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/buttons.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/css/style.css",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/css/style.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/email.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/email.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/congrats.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/congrats.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/fav.png",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/fav.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/food.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/food.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/happy.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/happy.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/index-1.png",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/index-1.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/index.png",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/index.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/logo.png",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/logo.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/sneakers.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/sneakers.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/soccer.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/soccer.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/socks.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/socks.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/tailwindcss.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/tailwindcss.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/user.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/user.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/user1.jpg",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/user1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/user2.jpg",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/user2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/img/user3.jpg",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/img/user3.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/index-1.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/index-1.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/index.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/index.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/js/scripts.js",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/js/scripts.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/dist/typography.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/dist/typography.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/gulpfile.js",
+      "PackagePath": "staticwebassets/TemplateAdmin/gulpfile.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/package.json",
+      "PackagePath": "staticwebassets/TemplateAdmin/package.json"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/css/_apply.sass",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/css/_apply.sass"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/css/app.sass",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/css/app.sass"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/css/apply/_alert.sass",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/css/apply/_alert.sass"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/css/apply/_badge.sass",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/css/apply/_badge.sass"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/css/apply/_button.sass",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/css/apply/_button.sass"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/css/apply/_card.sass",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/css/apply/_card.sass"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/css/apply/_code.sass",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/css/apply/_code.sass"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/css/apply/_typography.sass",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/css/apply/_typography.sass"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/css/external/prism.css",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/css/external/prism.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/css/index/_report-card.sass",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/css/index/_report-card.sass"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/congrats.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/congrats.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/fav.png",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/fav.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/food.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/food.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/happy.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/happy.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/index-1.png",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/index-1.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/index.png",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/index.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/logo.png",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/logo.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/sneakers.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/sneakers.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/soccer.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/soccer.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/socks.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/socks.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/tailwindcss.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/tailwindcss.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/user.svg",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/user.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/user1.jpg",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/user1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/user2.jpg",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/user2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/img/user3.jpg",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/img/user3.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/js/base/alert.js",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/js/base/alert.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/js/base/dropdown.js",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/js/base/dropdown.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/js/base/name.js",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/js/base/name.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/js/base/navbar.js",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/js/base/navbar.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/js/base/num.js",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/js/base/num.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/js/base/sidebar.js",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/js/base/sidebar.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/js/charts/analytics_1.js",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/js/charts/analytics_1.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/js/charts/salesOverview.js",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/js/charts/salesOverview.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/js/charts/summary.js",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/js/charts/summary.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/js/external/prism.js",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/js/external/prism.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/alert.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/alert.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/base/end.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/base/end.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/base/navbar.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/base/navbar.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/base/sidebar.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/base/sidebar.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/base/start.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/base/start.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/blank.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/blank.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/buttons.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/buttons.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/email.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/email.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/email/email-body.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/email/email-body.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/email/email-links.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/email/email-links.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/index-1.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/index-1.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/index.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/index.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/index/analytics-1.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/index/analytics-1.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/index/bestSeller.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/index/bestSeller.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/index/congrats.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/index/congrats.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/index/generalReport.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/index/generalReport.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/index/numbers.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/index/numbers.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/index/quickInfo.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/index/quickInfo.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/index/recentOrder.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/index/recentOrder.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/index/salesOverview.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/index/salesOverview.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/index/status.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/index/status.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/index/summary.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/index/summary.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/typography.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/typography.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/ui/alert/alert_1.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/ui/alert/alert_1.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/ui/alert/alert_2.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/ui/alert/alert_2.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/ui/alert/alert_3.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/ui/alert/alert_3.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/ui/alert/head.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/ui/alert/head.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/ui/buttons/1_btns.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/ui/buttons/1_btns.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/ui/buttons/2_btns.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/ui/buttons/2_btns.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/ui/buttons/head.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/ui/buttons/head.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/ui/typography/head.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/ui/typography/head.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/src/views/ui/typography/heading_1.html",
+      "PackagePath": "staticwebassets/TemplateAdmin/src/views/ui/typography/heading_1.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/tailwind.config.js",
+      "PackagePath": "staticwebassets/TemplateAdmin/tailwind.config.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/yarn-error.log",
+      "PackagePath": "staticwebassets/TemplateAdmin/yarn-error.log"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateAdmin/yarn.lock",
+      "PackagePath": "staticwebassets/TemplateAdmin/yarn.lock"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/.DS_Store",
+      "PackagePath": "staticwebassets/TemplateShop/.DS_Store"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/404.html",
+      "PackagePath": "staticwebassets/TemplateShop/404.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/about-us.html",
+      "PackagePath": "staticwebassets/TemplateShop/about-us.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/blog-2column.html",
+      "PackagePath": "staticwebassets/TemplateShop/blog-2column.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/blog.html",
+      "PackagePath": "staticwebassets/TemplateShop/blog.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/cake.html",
+      "PackagePath": "staticwebassets/TemplateShop/cake.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/cakes.html",
+      "PackagePath": "staticwebassets/TemplateShop/cakes.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/cart.html",
+      "PackagePath": "staticwebassets/TemplateShop/cart.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/checkout.html",
+      "PackagePath": "staticwebassets/TemplateShop/checkout.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/comming-soon.html",
+      "PackagePath": "staticwebassets/TemplateShop/comming-soon.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/contact.html",
+      "PackagePath": "staticwebassets/TemplateShop/contact.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/TemplateShop/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/TemplateShop/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/css/responsive.css",
+      "PackagePath": "staticwebassets/TemplateShop/css/responsive.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/css/style.css",
+      "PackagePath": "staticwebassets/TemplateShop/css/style.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/faq.html",
+      "PackagePath": "staticwebassets/TemplateShop/faq.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/fonts/fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets/TemplateShop/fonts/fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/fonts/fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets/TemplateShop/fonts/fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/fonts/fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets/TemplateShop/fonts/fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/fonts/fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets/TemplateShop/fonts/fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/fonts/fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets/TemplateShop/fonts/fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/fonts/fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets/TemplateShop/fonts/fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/.DS_Store",
+      "PackagePath": "staticwebassets/TemplateShop/img/.DS_Store"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/banner/banner-bg.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/banner/banner-bg.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/column/blog-c-1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/column/blog-c-1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/column/blog-c-2.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/column/blog-c-2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/column/blog-c-3.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/column/blog-c-3.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/column/blog-c-4.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/column/blog-c-4.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/column/blog-c-5.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/column/blog-c-5.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/column/blog-c-6.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/column/blog-c-6.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/column/blog-c-7.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/column/blog-c-7.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/column/blog-c-8.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/column/blog-c-8.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/latest-news/l-news-1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/latest-news/l-news-1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/latest-news/l-news-2.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/latest-news/l-news-2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/latest-news/l-news-3.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/latest-news/l-news-3.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/main-blog/blog-1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/main-blog/blog-1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/main-blog/blog-2.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/main-blog/blog-2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/main-blog/blog-3.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/main-blog/blog-3.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/main-blog/blog-4.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/main-blog/blog-4.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/main-blog/blog-5.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/main-blog/blog-5.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/recent-post/r-post-1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/recent-post/r-post-1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/recent-post/r-post-2.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/recent-post/r-post-2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/recent-post/r-post-3.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/recent-post/r-post-3.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/blog/recent-post/r-post-4.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/blog/recent-post/r-post-4.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/.DS_Store",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/.DS_Store"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/Cake1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/Cake1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/arivals-1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/arivals-1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/arivals-2.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/arivals-2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/arivals-pic.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/arivals-pic.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/c-feature-1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/c-feature-1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/c-feature-2.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/c-feature-2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/c-feature-3.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/c-feature-3.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/c-feature-4.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/c-feature-4.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/c-feature-5.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/c-feature-5.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/c-feature-6.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/c-feature-6.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/c-feature-7.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/c-feature-7.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/c-feature-8.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/c-feature-8.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/c-feature-9.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/c-feature-9.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/cake-feature/welcome-right.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/cake-feature/welcome-right.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/checkout-card.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/checkout-card.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/chef/chef-1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/chef/chef-1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/chef/chef-2.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/chef/chef-2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/chef/chef-3.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/chef/chef-3.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/client/client-1.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/client/client-1.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/client/client-2.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/client/client-2.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/comment/comment-1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/comment/comment-1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/comming-bg.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/comming-bg.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/error-bg.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/error-bg.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/faq-form-right.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/faq-form-right.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/fav-icon.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/fav-icon.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/footer-logo.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/footer-logo.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/home-slider/slider-1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/home-slider/slider-1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/home-slider/slider-10.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/home-slider/slider-10.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/home-slider/slider-11.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/home-slider/slider-11.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/home-slider/slider-12.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/home-slider/slider-12.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/home-slider/slider-13.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/home-slider/slider-13.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/home-slider/slider-14.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/home-slider/slider-14.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/home-slider/slider-2.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/home-slider/slider-2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/home-slider/slider-3.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/home-slider/slider-3.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/home-slider/slider-4.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/home-slider/slider-4.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/home-slider/slider-5.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/home-slider/slider-5.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/home-slider/slider-6.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/home-slider/slider-6.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/home-slider/slider-7.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/home-slider/slider-7.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/home-slider/slider-8.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/home-slider/slider-8.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/home-slider/slider-9.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/home-slider/slider-9.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/logo-2.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/logo-2.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/logo-3.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/logo-3.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/logo-circle-2.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/logo-circle-2.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/logo.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/logo.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/map-marker.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/map-marker.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/menu-draw-five.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/menu-draw-five.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/menu-draw.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/menu-draw.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/menu-left.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/menu-left.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/menu-right.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/menu-right.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/our-bakery/bakery-1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/our-bakery/bakery-1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/our-bakery/bakery-2.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/our-bakery/bakery-2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/our-bakery/bakery-3.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/our-bakery/bakery-3.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/portfolio/portfolio-1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/portfolio/portfolio-1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/portfolio/portfolio-2.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/portfolio/portfolio-2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/portfolio/portfolio-3.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/portfolio/portfolio-3.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/portfolio/portfolio-4.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/portfolio/portfolio-4.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/portfolio/portfolio-5.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/portfolio/portfolio-5.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/portfolio/portfolio-6.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/portfolio/portfolio-6.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/portfolio/portfolio-7.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/portfolio/portfolio-7.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/portfolio/portfolio-8.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/portfolio/portfolio-8.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/portfolio/portfolio-9.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/portfolio/portfolio-9.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/product/.DS_Store",
+      "PackagePath": "staticwebassets/TemplateShop/img/product/.DS_Store"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/product/cart-img.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/product/cart-img.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/product/product-details-1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/product/product-details-1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/product/sale-product/s-product-1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/product/sale-product/s-product-1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/product/sale-product/s-product-2.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/product/sale-product/s-product-2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/product/sale-product/s-product-3.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/product/sale-product/s-product-3.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/product/sale-product/s-product-4.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/product/sale-product/s-product-4.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/recipe/recipe-1.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/recipe/recipe-1.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/recipe/special-recipe.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/recipe/special-recipe.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/service-bg.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/service-bg.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/service/service-1.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/service/service-1.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/service/service-2.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/service/service-2.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/service/service-3.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/service/service-3.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/service/service-4.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/service/service-4.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/service/service-5.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/service/service-5.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/service/service-6.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/service/service-6.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/shop-page-bg.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/shop-page-bg.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/special/special-1.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/special/special-1.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/special/special-2.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/special/special-2.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/video/video-1.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/video/video-1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/w-left-techture.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/w-left-techture.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/w-right-techture.png",
+      "PackagePath": "staticwebassets/TemplateShop/img/w-right-techture.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/img/welcome-bg.jpg",
+      "PackagePath": "staticwebassets/TemplateShop/img/welcome-bg.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/index-2.html",
+      "PackagePath": "staticwebassets/TemplateShop/index-2.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/index-3.html",
+      "PackagePath": "staticwebassets/TemplateShop/index-3.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/index-4.html",
+      "PackagePath": "staticwebassets/TemplateShop/index-4.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/index-5.html",
+      "PackagePath": "staticwebassets/TemplateShop/index-5.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/index.html",
+      "PackagePath": "staticwebassets/TemplateShop/index.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/js/comingsoon.js",
+      "PackagePath": "staticwebassets/TemplateShop/js/comingsoon.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/js/contact.js",
+      "PackagePath": "staticwebassets/TemplateShop/js/contact.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/js/gmaps.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/js/gmaps.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/js/jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/js/jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/js/jquery.form.js",
+      "PackagePath": "staticwebassets/TemplateShop/js/jquery.form.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/js/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/js/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/js/map-active.js",
+      "PackagePath": "staticwebassets/TemplateShop/js/map-active.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/js/popper.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/js/theme.js",
+      "PackagePath": "staticwebassets/TemplateShop/js/theme.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/menu.html",
+      "PackagePath": "staticwebassets/TemplateShop/menu.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/our-team.html",
+      "PackagePath": "staticwebassets/TemplateShop/our-team.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/portfolio-full-width.html",
+      "PackagePath": "staticwebassets/TemplateShop/portfolio-full-width.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/portfolio.html",
+      "PackagePath": "staticwebassets/TemplateShop/portfolio.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/product-details.html",
+      "PackagePath": "staticwebassets/TemplateShop/product-details.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/service.html",
+      "PackagePath": "staticwebassets/TemplateShop/service.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/shop.html",
+      "PackagePath": "staticwebassets/TemplateShop/shop.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/single-blog.html",
+      "PackagePath": "staticwebassets/TemplateShop/single-blog.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/special.html",
+      "PackagePath": "staticwebassets/TemplateShop/special.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/testimonials.html",
+      "PackagePath": "staticwebassets/TemplateShop/testimonials.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/.DS_Store",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/.DS_Store"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/animate-css/animate.css",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/animate-css/animate.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/datetime-picker/css/bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/datetime-picker/css/bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/datetime-picker/js/bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/datetime-picker/js/bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/datetime-picker/js/moment.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/datetime-picker/js/moment.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/flat-icon/Flaticon.eot",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/flat-icon/Flaticon.eot"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/flat-icon/Flaticon.svg",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/flat-icon/Flaticon.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/flat-icon/Flaticon.ttf",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/flat-icon/Flaticon.ttf"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/flat-icon/Flaticon.woff",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/flat-icon/Flaticon.woff"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/flat-icon/Flaticond41d.eot",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/flat-icon/Flaticond41d.eot"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/flat-icon/flaticon.css",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/flat-icon/flaticon.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/isotope/imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/isotope/imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/isotope/isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/isotope/isotope.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/jquery-ui/.DS_Store",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/jquery-ui/.DS_Store"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/jquery-ui/images/ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/jquery-ui/images/ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/jquery-ui/images/ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/jquery-ui/images/ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/jquery-ui/images/ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/jquery-ui/images/ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/jquery-ui/images/ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/jquery-ui/images/ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/jquery-ui/images/ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/jquery-ui/images/ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/jquery-ui/images/ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/jquery-ui/images/ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/jquery-ui/jquery-ui.min.css",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/jquery-ui/jquery-ui.min.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/jquery-ui/jquery-ui.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/jquery-ui/jquery-ui.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/lightbox/simpleLightbox.css",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/lightbox/simpleLightbox.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/lightbox/simpleLightbox.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/lightbox/simpleLightbox.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/linearicons/.DS_Store",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/linearicons/.DS_Store"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/linearicons/fonts/Linearicons-Free54e9.eot",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/linearicons/fonts/Linearicons-Free54e9.eot"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/linearicons/fonts/Linearicons-Free54e9.svg",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/linearicons/fonts/Linearicons-Free54e9.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/linearicons/fonts/Linearicons-Free54e9.ttf",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/linearicons/fonts/Linearicons-Free54e9.ttf"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/linearicons/fonts/Linearicons-Free54e9.woff",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/linearicons/fonts/Linearicons-Free54e9.woff"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/linearicons/fonts/Linearicons-Free54e9.woff2",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/linearicons/fonts/Linearicons-Free54e9.woff2"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/linearicons/fonts/Linearicons-Freed41d.eot",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/linearicons/fonts/Linearicons-Freed41d.eot"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/linearicons/style.css",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/linearicons/style.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/magnifc-popup/jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/magnifc-popup/jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/magnifc-popup/magnific-popup.css",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/magnifc-popup/magnific-popup.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/nice-select/.DS_Store",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/nice-select/.DS_Store"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/nice-select/css/nice-select.css",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/nice-select/css/nice-select.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/nice-select/js/jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/nice-select/js/jquery.nice-select.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/owl-carousel/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/owl-carousel/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/owl-carousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/owl-carousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/owl-carousel/owl.video.play.html",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/owl-carousel/owl.video.play.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/.DS_Store",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/.DS_Store"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/assets/coloredbg.png",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/assets/coloredbg.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/assets/gridtile.png",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/assets/gridtile.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/assets/gridtile_3x3.png",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/assets/gridtile_3x3.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/assets/gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/assets/gridtile_3x3_white.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/assets/gridtile_white.png",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/assets/gridtile_white.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/assets/loader.gif",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/assets/loader.gif"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/css/closedhand.html",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/css/closedhand.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/css/layers.css",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/css/layers.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/css/navigation.css",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/css/navigation.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/css/openhand.html",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/css/openhand.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/css/settings.css",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/css/settings.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/fonts/.DS_Store",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/fonts/.DS_Store"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/fonts/revicons/revicons90c6.eot",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/fonts/revicons/revicons90c6.eot"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/fonts/revicons/revicons90c6.svg",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/fonts/revicons/revicons90c6.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/fonts/revicons/revicons90c6.ttf",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/fonts/revicons/revicons90c6.ttf"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/fonts/revicons/revicons90c6.woff",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/fonts/revicons/revicons90c6.woff"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/js/extensions/revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/js/extensions/revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/js/extensions/revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/js/extensions/revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/js/extensions/revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/js/extensions/revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/js/extensions/revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/js/extensions/revolution.extension.video.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/js/jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/js/jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/revolution/js/jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/revolution/js/jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/stroke-icon/.DS_Store",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/stroke-icon/.DS_Store"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/stroke-icon/fonts/Stroke-Gap-Icons.eot",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/stroke-icon/fonts/Stroke-Gap-Icons.eot"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/vendors/stroke-icon/style.css",
+      "PackagePath": "staticwebassets/TemplateShop/vendors/stroke-icon/style.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/TemplateShop/what-we-make.html",
+      "PackagePath": "staticwebassets/TemplateShop/what-we-make.html"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/images/cakes/2dc819d3-7edd-44ed-9b15-26f3454423b0_c-feature-6.jpg",
+      "PackagePath": "staticwebassets/images/cakes/2dc819d3-7edd-44ed-9b15-26f3454423b0_c-feature-6.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/images/cakes/4637ab28-4e3a-4417-b392-4f8fe2d2700e_Ảnh màn hình 2024-05-21 lúc 19.29.01.png",
+      "PackagePath": "staticwebassets/images/cakes/4637ab28-4e3a-4417-b392-4f8fe2d2700e_Ảnh màn hình 2024-05-21 lúc 19.29.01.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/images/cakes/596c4c28-2393-4ec0-8881-846eec657577_Ảnh màn hình 2024-05-21 lúc 19.29.01.png",
+      "PackagePath": "staticwebassets/images/cakes/596c4c28-2393-4ec0-8881-846eec657577_Ảnh màn hình 2024-05-21 lúc 19.29.01.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/images/cakes/680403a8-27cb-434f-a638-0cff036234cc_Ảnh màn hình 2024-11-08 lúc 07.38.12.png",
+      "PackagePath": "staticwebassets/images/cakes/680403a8-27cb-434f-a638-0cff036234cc_Ảnh màn hình 2024-11-08 lúc 07.38.12.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/images/cakes/af5fc55c-6793-40ff-8e37-e205394c6d84_Bản sao c-feature-8.jpg",
+      "PackagePath": "staticwebassets/images/cakes/af5fc55c-6793-40ff-8e37-e205394c6d84_Bản sao c-feature-8.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/NEWORDER.png",
+      "PackagePath": "staticwebassets/img/NEWORDER.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/avatars/1.png",
+      "PackagePath": "staticwebassets/img/avatars/1.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/avatars/2.png",
+      "PackagePath": "staticwebassets/img/avatars/2.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/avatars/3.png",
+      "PackagePath": "staticwebassets/img/avatars/3.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/avatars/4.png",
+      "PackagePath": "staticwebassets/img/avatars/4.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/avatars/5.png",
+      "PackagePath": "staticwebassets/img/avatars/5.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/avatars/6.png",
+      "PackagePath": "staticwebassets/img/avatars/6.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/avatars/7.png",
+      "PackagePath": "staticwebassets/img/avatars/7.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/backgrounds/18.jpg",
+      "PackagePath": "staticwebassets/img/backgrounds/18.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/elements/1.jpg",
+      "PackagePath": "staticwebassets/img/elements/1.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/elements/11.jpg",
+      "PackagePath": "staticwebassets/img/elements/11.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/elements/12.jpg",
+      "PackagePath": "staticwebassets/img/elements/12.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/elements/13.jpg",
+      "PackagePath": "staticwebassets/img/elements/13.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/elements/17.jpg",
+      "PackagePath": "staticwebassets/img/elements/17.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/elements/18.jpg",
+      "PackagePath": "staticwebassets/img/elements/18.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/elements/19.jpg",
+      "PackagePath": "staticwebassets/img/elements/19.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/elements/2.jpg",
+      "PackagePath": "staticwebassets/img/elements/2.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/elements/20.jpg",
+      "PackagePath": "staticwebassets/img/elements/20.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/elements/3.jpg",
+      "PackagePath": "staticwebassets/img/elements/3.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/elements/4.jpg",
+      "PackagePath": "staticwebassets/img/elements/4.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/elements/5.jpg",
+      "PackagePath": "staticwebassets/img/elements/5.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/elements/7.jpg",
+      "PackagePath": "staticwebassets/img/elements/7.jpg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/favicon/favicon.ico",
+      "PackagePath": "staticwebassets/img/favicon/favicon.ico"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/brands/asana.png",
+      "PackagePath": "staticwebassets/img/icons/brands/asana.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/brands/aws.png",
+      "PackagePath": "staticwebassets/img/icons/brands/aws.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/brands/behance.png",
+      "PackagePath": "staticwebassets/img/icons/brands/behance.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/brands/dribbble.png",
+      "PackagePath": "staticwebassets/img/icons/brands/dribbble.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/brands/facebook.png",
+      "PackagePath": "staticwebassets/img/icons/brands/facebook.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/brands/github.png",
+      "PackagePath": "staticwebassets/img/icons/brands/github.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/brands/google.png",
+      "PackagePath": "staticwebassets/img/icons/brands/google.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/brands/instagram.png",
+      "PackagePath": "staticwebassets/img/icons/brands/instagram.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/brands/mailchimp.png",
+      "PackagePath": "staticwebassets/img/icons/brands/mailchimp.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/brands/slack.png",
+      "PackagePath": "staticwebassets/img/icons/brands/slack.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/brands/twitter.png",
+      "PackagePath": "staticwebassets/img/icons/brands/twitter.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/misc/aviato.png",
+      "PackagePath": "staticwebassets/img/icons/misc/aviato.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/misc/bitbank.png",
+      "PackagePath": "staticwebassets/img/icons/misc/bitbank.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/misc/triangle-light.png",
+      "PackagePath": "staticwebassets/img/icons/misc/triangle-light.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/misc/zipcar.png",
+      "PackagePath": "staticwebassets/img/icons/misc/zipcar.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/payments/american-bank.png",
+      "PackagePath": "staticwebassets/img/icons/payments/american-bank.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/payments/citi.png",
+      "PackagePath": "staticwebassets/img/icons/payments/citi.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/payments/digital-ocean.png",
+      "PackagePath": "staticwebassets/img/icons/payments/digital-ocean.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/payments/gumroad.png",
+      "PackagePath": "staticwebassets/img/icons/payments/gumroad.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/payments/mastercard-2.png",
+      "PackagePath": "staticwebassets/img/icons/payments/mastercard-2.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/icons/payments/stripes.png",
+      "PackagePath": "staticwebassets/img/icons/payments/stripes.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/illustrations/404.png",
+      "PackagePath": "staticwebassets/img/illustrations/404.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/illustrations/auth-basic-mask-light.png",
+      "PackagePath": "staticwebassets/img/illustrations/auth-basic-mask-light.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/illustrations/misc-mask-light.png",
+      "PackagePath": "staticwebassets/img/illustrations/misc-mask-light.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/illustrations/misc-under-maintenance.png",
+      "PackagePath": "staticwebassets/img/illustrations/misc-under-maintenance.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/illustrations/tree-3.png",
+      "PackagePath": "staticwebassets/img/illustrations/tree-3.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/illustrations/tree.png",
+      "PackagePath": "staticwebassets/img/illustrations/tree.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/illustrations/trophy.png",
+      "PackagePath": "staticwebassets/img/illustrations/trophy.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/layouts/layout-container-light.png",
+      "PackagePath": "staticwebassets/img/layouts/layout-container-light.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/layouts/layout-fluid-light.png",
+      "PackagePath": "staticwebassets/img/layouts/layout-fluid-light.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/layouts/layout-without-menu-light.png",
+      "PackagePath": "staticwebassets/img/layouts/layout-without-menu-light.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/img/layouts/layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets/img/layouts/layout-without-navbar-light.png"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/js/config.js",
+      "PackagePath": "staticwebassets/js/config.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/js/dashboards-analytics.js",
+      "PackagePath": "staticwebassets/js/dashboards-analytics.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/js/extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets/js/extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/js/form-basic-inputs.js",
+      "PackagePath": "staticwebassets/js/form-basic-inputs.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/js/pages-account-settings-account.js",
+      "PackagePath": "staticwebassets/js/pages-account-settings-account.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/js/ui-modals.js",
+      "PackagePath": "staticwebassets/js/ui-modals.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/js/ui-popover.js",
+      "PackagePath": "staticwebassets/js/ui-popover.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/js/ui-toasts.js",
+      "PackagePath": "staticwebassets/js/ui-toasts.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/css/core.css",
+      "PackagePath": "staticwebassets/vendor/css/core.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/css/pages/page-account-settings.css",
+      "PackagePath": "staticwebassets/vendor/css/pages/page-account-settings.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/css/pages/page-auth.css",
+      "PackagePath": "staticwebassets/vendor/css/pages/page-auth.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/css/pages/page-icons.css",
+      "PackagePath": "staticwebassets/vendor/css/pages/page-icons.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/css/pages/page-misc.css",
+      "PackagePath": "staticwebassets/vendor/css/pages/page-misc.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/css/theme-default.css",
+      "PackagePath": "staticwebassets/vendor/css/theme-default.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/fonts/remixicon/remixicon.css",
+      "PackagePath": "staticwebassets/vendor/fonts/remixicon/remixicon.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/fonts/remixicon/remixicon.eot",
+      "PackagePath": "staticwebassets/vendor/fonts/remixicon/remixicon.eot"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/fonts/remixicon/remixicon.svg",
+      "PackagePath": "staticwebassets/vendor/fonts/remixicon/remixicon.svg"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/fonts/remixicon/remixicon.ttf",
+      "PackagePath": "staticwebassets/vendor/fonts/remixicon/remixicon.ttf"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/fonts/remixicon/remixicon.woff",
+      "PackagePath": "staticwebassets/vendor/fonts/remixicon/remixicon.woff"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/fonts/remixicon/remixicon.woff2",
+      "PackagePath": "staticwebassets/vendor/fonts/remixicon/remixicon.woff2"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/js/bootstrap.js",
+      "PackagePath": "staticwebassets/vendor/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/js/helpers.js",
+      "PackagePath": "staticwebassets/vendor/js/helpers.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/js/menu.js",
+      "PackagePath": "staticwebassets/vendor/js/menu.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/libs/apex-charts/apex-charts.css",
+      "PackagePath": "staticwebassets/vendor/libs/apex-charts/apex-charts.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/libs/apex-charts/apexcharts.js",
+      "PackagePath": "staticwebassets/vendor/libs/apex-charts/apexcharts.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/libs/highlight/highlight-github.css",
+      "PackagePath": "staticwebassets/vendor/libs/highlight/highlight-github.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/libs/highlight/highlight.css",
+      "PackagePath": "staticwebassets/vendor/libs/highlight/highlight.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/libs/highlight/highlight.js",
+      "PackagePath": "staticwebassets/vendor/libs/highlight/highlight.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/libs/jquery/jquery.js",
+      "PackagePath": "staticwebassets/vendor/libs/jquery/jquery.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/libs/masonry/masonry.js",
+      "PackagePath": "staticwebassets/vendor/libs/masonry/masonry.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/libs/node-waves/node-waves.css",
+      "PackagePath": "staticwebassets/vendor/libs/node-waves/node-waves.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/libs/node-waves/node-waves.js",
+      "PackagePath": "staticwebassets/vendor/libs/node-waves/node-waves.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/libs/perfect-scrollbar/perfect-scrollbar.css",
+      "PackagePath": "staticwebassets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/libs/perfect-scrollbar/perfect-scrollbar.js",
+      "PackagePath": "staticwebassets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"
+    },
+    {
+      "Id": "/Users/namnguyenhoai/Desktop/Bản sao ShopBaker/ShopBaker/wwwroot/vendor/libs/popper/popper.js",
+      "PackagePath": "staticwebassets/vendor/libs/popper/popper.js"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.ShopBaker.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.ShopBaker.props",
+      "PackagePath": "build\\ShopBaker.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ShopBaker.props",
+      "PackagePath": "buildMultiTargeting\\ShopBaker.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ShopBaker.props",
+      "PackagePath": "buildTransitive\\ShopBaker.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

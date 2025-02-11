@@ -1,0 +1,118 @@
+﻿
+
+@model List<ShopBaker.Models.BillingDetailsModel>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin - Quản lý khách hàng và đơn hàng</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <style>
+        .admin-container {
+            margin: 20px;
+        }
+
+        .table th {
+            background-color: #666666;
+            color: gray;
+        }
+
+        .table tbody tr:hover {
+            background-color: #f1f1f1;
+        }
+
+        .table tbody ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+            .table tbody ul li {
+                margin-bottom: 5px;
+                padding: 5px;
+                background-color: #f9f9f9;
+                border-radius: 5px;
+            }
+
+        .header-title {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .total-amount {
+            font-weight: bold;
+            color: #dc3545;
+        }
+    </style>
+</head>
+<body>
+    <h1>----</h1>
+    <h1> Hi @ViewBag.UserName </h1>
+    <h3>'</h3>
+    <div class="admin-container">
+        <h2 class="header-title"> Danh sách đơn hàng của tôi!</h2>
+
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+
+                    <th>Số điện thoại</th>
+                    <th>Địa chỉ</th>
+                    <th>Thành phố</th>
+                    <th>Thời gian đặt hàng</th>
+                    <th>Sản phẩm đã mua</th>
+                    <th>Tổng giá trị đơn hàng</th>
+                    <th>Trạng thái đơn hàng</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var customer in Model)
+                {
+                    if (customer.UserId == ViewBag.UserId)
+                    {
+                        var totalOrderAmount = 0M; // Biến để tính tổng giá trị của đơn hàng
+
+                        <tr>
+
+                            <td>@customer.Phone</td>
+                            <td>@customer.Address, @customer.Address2</td>
+                            <td>@customer.City</td>
+                            <td>@customer.TimeOrder.ToString("dd/MM/yyyy HH:mm")</td>
+                            <td>
+                                <ul>
+                                    @foreach (var cart in customer.Carts)
+                                    {
+                                        totalOrderAmount += cart.TotalPrice;<!-- Tính tổng giá trị đơn hàng -->
+
+                                        <li>
+                                            Sản phẩm: @cart.ProductName <br />
+                                            Số lượng: @cart.Quantity <br />
+                                            Giá: @cart.Price VND <br />
+                                            Tổng cộng: @cart.TotalPrice VND
+                                        </li>
+                                    }
+                                </ul>
+                            </td>
+                            <td class="total-amount">@totalOrderAmount VND</td>
+
+                            <td>
+                                Trạng thái : @if (@customer.Status == 1)
+                                {<a> Đang chờ xác nhận!</a>}
+                                else @if (@customer.Status == 2)
+                                {<a> Đang giao hàng!</a>}
+                                else @if (@customer.Status == 3)
+                                {<a> Đã nhận hàng!</a>}
+                                else @if (@customer.Status == 4)
+                                {<a> Đã Huỷ!</a>}
+
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,392 @@
+﻿
+@model IEnumerable<dynamic>
+@{
+    ViewData["Title"] = "Dashboard - Analytics";
+
+    //var monthlyProfits = ViewBag.MonthlyProfits as List<dynamic>;
+    //var labels = monthlyProfits.Select(mp => "Month " + mp.Month).ToList();
+    //var data = monthlyProfits.Select(mp => mp.Total).ToList();
+}
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&ampdisplay=swap" rel="stylesheet">
+    <environment include="Development">
+        <!-- Fonts & Flag icons -->
+        <link rel="stylesheet" href="~/vendor/fonts/remixicon/remixicon.css" />
+        <link rel="stylesheet" href="~/vendor/libs/node-waves/node-waves.css" />
+        <!-- Core CSS -->
+        <link rel="stylesheet" href="~/vendor/css/core.css" class="template-customizer-core-css" />
+        <link rel="stylesheet" href="~/vendor/css/theme-default.css" class="template-customizer-theme-css" />
+        <link rel="stylesheet" href="~/css/demo.css" />
+        <!-- `perfect-scrollbar` library required by SideNav plugin -->
+        <link rel="stylesheet" href="~/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
+        <!-- Application stylesheets -->
+        <link rel="stylesheet" href="~/css/site.css" />
+    </environment>
+    <environment exclude="Development">
+        <!-- Fonts & Flag icons -->
+        <link rel="stylesheet" href="~/vendor/fonts/remixicon/remixicon.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/vendor/libs/node-waves/node-waves.css" asp-append-version="true" />
+        <!-- Core CSS -->
+        <link rel="stylesheet" href="~/vendor/css/core.css" class="template-customizer-core-css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/vendor/css/theme-default.css" class="template-customizer-theme-css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/css/demo.css" />
+        <!-- `perfect-scrollbar` library required by SideNav plugin -->
+        <link rel="stylesheet" href="~/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" asp-append-version="true" />
+        <!-- Application stylesheets -->
+        <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    </environment>
+
+
+    <link rel="stylesheet" href="~/vendor/libs/apex-charts/apex-charts.css" />
+
+
+    <script src="~/vendor/libs/apex-charts/apexcharts.js"></script>
+
+    <script src="~/js/dashboards-analytics.js"></script>
+
+
+    @* ************** Content ************** *@
+
+</head>
+
+
+
+<h1>''</h1>
+<h1>''</h1>
+
+<body class="bg-gray-100">
+
+
+    <div class="row gy-6">
+        <!-- Congratulations card -->
+        <div class="col-md-12 col-lg-4">
+            <div class="card">
+                <div class="card-body text-nowrap">
+                    <h5 class="card-title mb-0 flex-wrap text-nowrap">Congratulations Norris! 🎉</h5>
+                    <p class="mb-2">Best seller of the month</p>
+                    <h4 class="text-primary mb-0">@ViewBag.TotalInCurrentMonth</h4>
+                    <p class="mb-2">@Math.Round((decimal)(ViewBag.TotalInCurrentMonth / 1000), 2) % of target 🚀</p>
+                    <a href="javascript:;" class="btn btn-sm btn-primary">View Sales</a>
+                </div>
+                <img src="~/img/illustrations/trophy.png" class="position-absolute bottom-0 end-0 me-5 mb-5" width="83" alt="view sales">
+            </div>
+        </div>
+        <!--/ Congratulations card -->
+        <!-- Transactions -->
+        <div class="col-lg-8">
+            <div class="card h-100">
+                <div class="card-header">
+                    <div class="d-flex align-items-center justify-content-between">
+                        <h5 class="card-title m-0 me-2">Transactions</h5>
+                        <div class="dropdown">
+                            <button class="btn text-muted p-0" type="button" id="transactionID" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="ri-more-2-line ri-24px"></i>
+                            </button>
+                            <div class="dropdown-menu dropdown-menu-end" aria-labelledby="transactionID">
+                                <a class="dropdown-item" href="javascript:void(0);">Refresh</a>
+                                <a class="dropdown-item" href="javascript:void(0);">Share</a>
+                                <a class="dropdown-item" href="javascript:void(0);">Update</a>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="small mb-0"><span class="h6 mb-0">Total @((int)ViewBag.TotalGrowth) % Growth</span>  this month</p>
+                </div>
+                <div class="card-body pt-lg-10">
+                    <div class="row g-6">
+                        <div class="col-md-3 col-6">
+                            <div class="d-flex align-items-center">
+                                <div class="avatar">
+                                    <div class="avatar-initial bg-primary rounded shadow-xs">
+                                        <i class="ri-pie-chart-2-line ri-24px"></i>
+                                    </div>
+                                </div>
+                                <div class="ms-3">
+                                    <p class="mb-0">Sales</p>
+                                    <h5 class="mb-0">@ViewBag.totalbill</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <div class="d-flex align-items-center">
+                                <div class="avatar">
+                                    <div class="avatar-initial bg-success rounded shadow-xs">
+                                        <i class="ri-group-line ri-24px"></i>
+                                    </div>
+                                </div>
+                                <div class="ms-3">
+                                    <p class="mb-0">Customers</p>
+                                    <h5 class="mb-0">@ViewBag.totalclients</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <div class="d-flex align-items-center">
+                                <div class="avatar">
+                                    <div class="avatar-initial bg-warning rounded shadow-xs">
+                                        <i class="ri-macbook-line ri-24px"></i>
+                                    </div>
+                                </div>
+                                <div class="ms-3">
+                                    <p class="mb-0">Product</p>
+                                    <h5 class="mb-0">@ViewBag.totalproduct </h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <div class="d-flex align-items-center">
+                                <div class="avatar">
+                                    <div class="avatar-initial bg-info rounded shadow-xs">
+                                        <i class="ri-money-dollar-circle-line ri-24px"></i>
+                                    </div>
+                                </div>
+                                <div class="ms-3">
+                                    <p class="mb-0">Revenue</p>
+                                    <h5 class="mb-0">@ViewBag.totalPrice </h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--/ Transactions -->
+        <!-- Weekly Overview Chart -->
+        <div class="col-xl-4 col-md-6">
+            <div class="card h-100">
+                <div class="card-header">
+                    <div class="d-flex justify-content-between">
+                        <h5 class="mb-1">Weekly Overview</h5>
+                        <div class="dropdown">
+                            <button class="btn text-muted p-0" type="button" id="weeklyOverviewDropdown" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="ri-more-2-line ri-24px"></i>
+                            </button>
+                            <div class="dropdown-menu dropdown-menu-end" aria-labelledby="weeklyOverviewDropdown">
+                                <a class="dropdown-item" href="javascript:void(0);">Refresh</a>
+                                <a class="dropdown-item" href="javascript:void(0);">Share</a>
+                                <a class="dropdown-item" href="javascript:void(0);">Update</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body pt-lg-2">
+                    <div id="weeklyOverviewChart"></div>
+                    <div class="mt-1 mt-md-3">
+                        <div class="d-flex align-items-center gap-4">
+                            <h4 class="mb-0">45%</h4>
+                            <p class="mb-0">Your sales performance is 45% 😎 better compared to last month</p>
+                        </div>
+                        <div class="d-grid mt-3 mt-md-4">
+                            <button class="btn btn-primary" type="button">Details</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--/ Weekly Overview Chart -->
+        <!-- Total Table -->
+       
+                    <div class="col-xl-4 col-md-6">
+                        <div class="card h-100">
+                            <div class="card-header d-flex align-items-center justify-content-between">
+                                <canvas id="revenueChart" width="200" height="200"></canvas>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Four Cards -->
+                    <div class="col-xl-4 col-md-6">
+                        <div class="row gy-6">
+                            <!-- Total Profit line chart -->
+                            <div class="col-sm-6">
+                                <div class="card h-100">
+                                    <div class="card-header pb-0">
+                                        <h4 class="mb-0">$ @(ViewBag.TotalInCurrentMonth-ViewBag.TotalInPreviousMonth)</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <div id="totalProfitLineChart" class="mb-3"></div>
+                                        <h6 class="text-center mb-0">Total Profit</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--/ Total Profit line chart -->
+                            <!-- Total Profit Weekly Project -->
+                            <div class="col-sm-6">
+                                <div class="card h-100">
+                                    <div class="card-header d-flex align-items-center justify-content-between">
+                                        <div class="avatar">
+                                            <div class="avatar-initial bg-secondary rounded-circle shadow-xs">
+                                                <i class="ri-pie-chart-2-line ri-24px"></i>
+                                            </div>
+                                        </div>
+                                        <div class="dropdown">
+                                            <button class="btn text-muted p-0" type="button" id="totalProfitID" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                <i class="ri-more-2-line ri-24px"></i>
+                                            </button>
+                                            <div class="dropdown-menu dropdown-menu-end" aria-labelledby="totalProfitID">
+                                                <a class="dropdown-item" href="javascript:void(0);">Refresh</a>
+                                                <a class="dropdown-item" href="javascript:void(0);">Share</a>
+                                                <a class="dropdown-item" href="javascript:void(0);">Update</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                        <h6 class="mb-1">Total Profit</h6>
+                                        <div class="d-flex flex-wrap mb-1 align-items-center">
+                                            <h4 class="mb-0 me-2">$ @(ViewBag.TotalInCurrentMonth-ViewBag.TotalInPreviousMonth)</h4>
+                                            <p class="text-success mb-0">+@((int)Math.Round(((ViewBag.TotalInCurrentMonth - ViewBag.TotalInPreviousMonth) / ViewBag.TotalInPreviousMonth * 100)))%</p>
+                                        </div>
+                                        <small>Weekly Project</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--/ Total Profit Weekly Project -->
+                            <!-- New Yearly Project -->
+                            <div class="col-sm-6">
+                                <div class="card h-100">
+                                    <div class="card-header d-flex align-items-center justify-content-between">
+                                        <div class="avatar">
+                                            <div class="avatar-initial bg-primary rounded-circle shadow-xs">
+                                                <i class="ri-file-word-2-line ri-24px"></i>
+                                            </div>
+                                        </div>
+                                        <div class="dropdown">
+                                            <button class="btn text-muted p-0" type="button" id="newProjectID" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                <i class="ri-more-2-line ri-24px"></i>
+                                            </button>
+                                            <div class="dropdown-menu dropdown-menu-end" aria-labelledby="newProjectID">
+                                                <a class="dropdown-item" href="javascript:void(0);">Refresh</a>
+                                                <a class="dropdown-item" href="javascript:void(0);">Share</a>
+                                                <a class="dropdown-item" href="javascript:void(0);">Update</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                        <h6 class="mb-1">New project</h6>
+                                        <div class="d-flex flex-wrap mb-1 align-items-center">
+                                            <h4 class="mb-0 me-2">862</h4>
+                                            <p class="text-danger mb-0">-18%</p>
+                                        </div>
+                                        <small>Yearly Project</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--/ New Yearly Project -->
+                            <!-- Sessions chart -->
+                            <div class="col-sm-6">
+                                <div class="card h-100">
+                                    <div class="card-header d-flex align-items-center justify-content-between">
+                                        <h4 class="mb-0">@ViewBag.LoginCount Online</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <div id="sessionsColumnChart" class="mb-3"></div>
+                                        <h6 class="text-center mb-0">Sessions</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--/ Sessions chart -->
+                        </div>
+                    </div>
+                    <!--/ Total Earning -->
+
+       
+                
+    </div>
+
+                <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+                <script>
+        console.log(monthlyProfits);
+    document.addEventListener("DOMContentLoaded", function() {
+        var monthlyProfits = @Html.Raw(Json.Serialize(ViewBag.MonthlyProfits));
+
+        // Kiểm tra xem monthlyProfits có null hoặc rỗng không
+        if (monthlyProfits && monthlyProfits.length > 0) {
+            var labels = monthlyProfits.map(function(mp) {
+                return "Month " + mp.Month;
+            });
+
+            var data = monthlyProfits.map(function(mp) {
+                return mp.Total;
+            });
+
+            const ctx = document.getElementById("totalProfitChart").getContext("2d");
+            new Chart(ctx, {
+                type: "line",
+                data: {
+                    labels: labels, // Tháng dưới dạng nhãn
+                    datasets: [{
+                        label: "Total Profit ($)",
+                        data: data, // Tổng tiền theo từng tháng
+                        backgroundColor: "rgba(75, 192, 192, 0.2)",
+                        borderColor: "rgba(75, 192, 192, 1)",
+                        borderWidth: 2,
+                        fill: true,
+                        tension: 0.4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            display: true,
+                            position: 'top'
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Total Profit ($)'
+                            }
+                        },
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Month'
+                            }
+                        }
+                    }
+                }
+            });
+        } else {
+            console.log("No data available for monthly profits.");
+        }
+    });
+                </script>
+                <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+                <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var ctx = document.getElementById('revenueChart').getContext('2d');
+        var monthlyRevenue = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.MonthlyRevenue));
+
+        var labels = monthlyRevenue.map(item => item.Month);
+        var data = monthlyRevenue.map(item => item.Revenue);
+
+        var revenueChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Monthly Revenue',
+                    data: data,
+                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    });
+                </script>
+</body>

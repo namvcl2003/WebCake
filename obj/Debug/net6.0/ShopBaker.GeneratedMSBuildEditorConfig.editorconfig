@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ShopBaker
+build_property.RootNamespace = ShopBaker
+build_property.ProjectDir = /Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/AboutUs/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXRVcy9BYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/AboutUs/Ourchefs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXRVcy9PdXJjaGVmcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/AboutUs/Testimonials.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXRVcy9UZXN0aW1vbmlhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Admin/AdminCake.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQWRtaW5DYWtlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Admin/Ecommerce.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRWNvbW1lcmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Admin/ItemsSales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSXRlbXNTYWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Admin/NewOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vTmV3T3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Admin/TotalProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vVG90YWxQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/BillingDetails/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmlsbGluZ0RldGFpbHMvTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/BillingDetails/Regester.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmlsbGluZ0RldGFpbHMvUmVnZXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Cake/AddCake.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FrZS9BZGRDYWtlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Cake/EditCake.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FrZS9FZGl0Q2FrZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Cake/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FrZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Cake/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FrZS9TaG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Cart/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9DYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9DaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Cart/OrderSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9PcmRlclN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Chat/ChatClient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hhdC9DaGF0Q2xpZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Chat/ChatRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hhdC9DaGF0Um9vbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Home/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Home/OderStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9PZGVyU3RhdHVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Menu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Shared/Component/Menu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudC9NZW51L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/User/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9DaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/User/UpdateUserbyAD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9VcGRhdGVVc2VyYnlBRC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/User/UpdateUserInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9VcGRhdGVVc2VySW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/namnguyenhoai/Documents/Bài giảng/Năm 4/Năm 4 HK1/Lập trình web/Bản sao ShopBaker/ShopBaker/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4ehel7zart

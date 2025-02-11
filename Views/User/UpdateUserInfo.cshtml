@@ -1,0 +1,98 @@
+﻿@model ShopBaker.Models.UserModel
+
+@{
+    ViewData["Title"] = "Cập nhật thông tin người dùng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="form-wrapper">
+    <div class="row">
+        <div class="col-lg-7">
+            <div class="main_title">
+                <h2>Cập nhật thông tin</h2>
+            </div>
+            <div class="billing_form_area">
+                <form class="billing_form row" asp-action="UpdateUserInfo" method="post" id="contactForm" novalidate="novalidate">
+                    <div class="form-group col-md-6">
+                        <label for="first">Họ *</label>
+                        <input type="text" class="form-control" id="first" name="FirstName" placeholder="Họ" value="@Model.FirstName">
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="last">Tên *</label>
+                        <input type="text" class="form-control" id="last" name="LastName" placeholder="Tên" value="@Model.LastName">
+                    </div>
+
+                    <div class="form-group col-md-12">
+                        <label for="address">Địa chỉ *</label>
+                        <input type="text" class="form-control" id="address" name="Address" placeholder="Địa chỉ" value="@Model.Address" required>
+                        <input type="text" class="form-control" id="address2" name="Address2" placeholder="Căn hộ, phòng, vv. (không bắt buộc)" value="@Model.Address2">
+                    </div>
+                    <div class="form-group col-md-12">
+                        <label for="city">Thành phố *</label>
+                        <input type="text" class="form-control" id="city" name="City" placeholder="Thành phố" value="@Model.City" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="email">Email *</label>
+                        <input type="email" class="form-control" id="email" name="Email" placeholder="Email" value="@Model.Email" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="phone">Số điện thoại *</label>
+                        <input type="text" class="form-control" id="phone" name="Phone" placeholder="Số điện thoại" value="@Model.Phone" required>
+                    </div>
+
+                    <button type="submit" value="submit" class="btn pest_btn">Cập nhật</button>
+                   
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .html {
+        background-color: #fff;
+    }
+    
+    .form-wrapper {
+        justify-content: center; /* Căn giữa theo chiều ngang */
+        align-items: center;
+        width: 100%; /* Đảm bảo form chiếm hết chiều rộng của màn hình */
+        max-width: 900px; /* Tối đa chiều rộng của form */
+        padding: 20px; /* Padding bên trong form */
+        box-sizing: border-box; /* Đảm bảo padding không làm thay đổi kích thước */
+        /*background-color: #fff;*/ /* Màu nền trắng cho form */
+        /*border-radius: 10px;*/ /* Bo góc cho form */
+        /*box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);*/ /* Hiệu ứng bóng cho form */
+    }
+
+    .billing_form_area {
+        padding: 20px;
+    }
+
+    .row {
+        margin: 0; /* Loại bỏ margin mặc định của .row */
+    }
+
+    .form-group {
+        margin-bottom: 15px; /* Khoảng cách giữa các trường input */
+    }
+
+    .btn.pest_btn {
+        background-color: #7AC5CD !important; /* Màu nền xanh */
+        color: white !important; /* Màu chữ trắng */
+        padding: 10px 20px !important; /* Khoảng cách padding cho nút */
+        border: none !important; /* Bỏ viền */
+        border-radius: 5px !important; /* Bo góc */
+        font-size: 16px !important; /* Kích thước chữ */
+        cursor: pointer !important; /* Con trỏ chuột sẽ thay đổi khi hover */
+        transition: background-color 0.3s ease, transform 0.3s ease !important; /* Hiệu ứng chuyển màu và zoom */
+    }
+
+        .btn.pest_btn:hover {
+            background-color: #BFEFFF !important; /* Màu nền thay đổi khi hover */
+            transform: scale(1.05) !important; /* Phóng to nút khi hover */
+        }
+
+        .btn.pest_btn:active {
+            background-color: #BFEFFF !important; /* Màu nền khi nhấn nút */
+        }
+</style>
